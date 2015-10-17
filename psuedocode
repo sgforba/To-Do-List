@@ -1,0 +1,34 @@
+Psuedo-Code
+
+
+//Initial Value
+
+//When #new is submitted add the new item
+
+//when you click on item, mark as complete or incomplete
+
+//when a remove link is clicked, remove that item
+
+//When an edit link is clicked, edit the item
+
+//When an item editor is submitted, save the changes
+
+//When User leaves an item editor, save the changes
+
+//When the clear list button is clicked, clear the items
+
+//when clear completed is clicked, clear the completed items
+
+
+//FUNCTIONS
+
+//Add a new item
+	//prevent page load
+	//get the text
+	//store it in a variable
+	// add an <li> with text into the <ul>
+	var newItem = $('#newItem').val();
+	$('todos').append("<li> <span class="item"
+
+
+
